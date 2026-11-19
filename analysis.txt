@@ -1,0 +1,15 @@
+
+STUDENT PERFORMANCE ANALYSIS
+
+This project contains 20,000 student records.
+
+The dataset includes:
+1. Student ID
+2. Student Name
+3. Age
+4. Gender
+5. Mathematics Marks
+6. Science Marks
+7. English Marks
+
+The dataset is used to analyze student academic performance.
