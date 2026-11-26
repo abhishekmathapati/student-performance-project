@@ -1,11 +1,1 @@
-
-TEAM NOTES
-
-Developer 2 Updates
-
-1. Added team documentation.
-2. Updated project collaboration details.
-3. Student performance dataset will be used for analysis.
-4. All team members should maintain proper documentation.
-
-This file was added by Developer 2.
+team information
